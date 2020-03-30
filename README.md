@@ -24,7 +24,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/rajkumardusad/HTools.git`
+* `git clone https://github.com/h656/HTools.git`
 
 * `cd HTools`
 
@@ -47,7 +47,7 @@ Enter a Number for a specific output:
 
 <br/>
 
-***Now HTools is installed successfully. To run HTools Type `HTools` or `toolx` in your terminal.***
+***Now HTools is installed successfully. To run HTools Type `HTools` or `htool` in your terminal.***
 
 Type `HTools` or `toolx` from anywhere in your terminal to open HTools.
 
